@@ -50,7 +50,7 @@ jobs:
           linux_arm_v5_client.tar.gz
           linux_arm_v6_client.tar.gz
           linux_arm_v7_client.tar.gz
-          linux_arm_v5_server.tar.gz
+          linux_arm_k3_server.tar.gz
           linux_arm_v6_server.tar.gz
           linux_arm_v7_server.tar.gz
           linux_mips64le_client.tar.gz
